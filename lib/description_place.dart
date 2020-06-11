@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:trips_app/button.dart';
+
 class DescriptionPlace extends StatelessWidget {
   
   String placeName;
